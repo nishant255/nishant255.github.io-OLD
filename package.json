@@ -1,0 +1,33 @@
+{
+  "name": "npatel_portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website for Nishant Patel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishant255/nishant255.github.io.git"
+  },
+  "keywords": [
+    "Nishant",
+    "Patel",
+    "Portfolio"
+  ],
+  "author": "Nishant Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishant255/npatel_portfolio/issues"
+  },
+  "homepage": "https://github.com/nishant255/npatel_portfolio#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.0.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "private": true
+}

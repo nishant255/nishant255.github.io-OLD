@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="069df073-2e1e-440f-a532-2f8e7703bb3b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_hero_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/gallery_hero_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/hero_5.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/hero_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/linear_gradient.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo-header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo_black_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo_set.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/logo_white_2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/paralax_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/showcase.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/signature_sample.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/montserrat/Montserrat-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/montserrat/Montserrat-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Bold/OpenSans-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Bold/OpenSans-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Bold/OpenSans-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Bold/OpenSans-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/BoldItalic/OpenSans-BoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/BoldItalic/OpenSans-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/BoldItalic/OpenSans-BoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/BoldItalic/OpenSans-BoldItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBold/OpenSans-ExtraBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBold/OpenSans-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBold/OpenSans-ExtraBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBold/OpenSans-ExtraBold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Italic/OpenSans-Italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Italic/OpenSans-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Italic/OpenSans-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Italic/OpenSans-Italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Light/OpenSans-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Light/OpenSans-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Light/OpenSans-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Light/OpenSans-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/LightItalic/OpenSans-LightItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/LightItalic/OpenSans-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/LightItalic/OpenSans-LightItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/LightItalic/OpenSans-LightItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Regular/OpenSans-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Regular/OpenSans-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Regular/OpenSans-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Regular/OpenSans-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Semibold/OpenSans-Semibold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Semibold/OpenSans-Semibold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Semibold/OpenSans-Semibold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Semibold/OpenSans-Semibold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/pages-icon/Pages-icon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/pages-icon/Pages-icon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/pages-icon/Pages-icon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/ico/120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/ico/152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/ico/60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/ico/76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/Arrow_menu_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/Arrow_menu_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/mail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/phpmailer/PHPMailerAutoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/phpmailer/class.phpmailer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/phpmailer/class.phpmaileroauth.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/phpmailer/class.phpmaileroauthgoogle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/phpmailer/class.pop3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/phpmailer/class.smtp.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_lib/phpmailer/get_oauth_token.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/Parachute.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/Prizemedalion.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/Umbrella.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/contact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/google_map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/animateNumber/jquery.animateNumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/animateNumber/jquery.animateNumber.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/animateNumber/jquery.animateNumbers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/countdown/jquery.countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/countdown/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/fitjs/fit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/spinning.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_spinning.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/ftscroller/ftscroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/imagesloaded/imagesloaded.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-appear/appear.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-appear/jquery.appear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-fit-text/jquery.fittext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-isotope/isotope.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-isotope/masonry-horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollbar/jquery.scrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollbar/jquery.scrollbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-scrollbar/jquery.scrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-unveil/jquery.unveil.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/additional-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_bg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ca.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_cs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_da.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_de.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_el.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_es.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_es_AR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_es_AR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_et.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_eu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_fa.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_fi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_fr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_gl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_he.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_hr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_hu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_id.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_is.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_it.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ja.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ka.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_kk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ko.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_lt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_lv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_my.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_nl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_no.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_pl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_pt_BR.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_pt_PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_pt_PT.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_ru.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_si.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sr_lat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sr_lat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_sv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_th.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_tj.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_tj.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_tr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_uk.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_vi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_zh.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/messages_zh_TW.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_de.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_es_CL.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_es_CL.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_fi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_nl.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-validation/js/localization/methods_pt.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery/jquery-1.11.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery/jquery-easy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/pace-theme-flash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/pace/pace.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/css/swiper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/css/swiper.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/maps/swiper.jquery.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/maps/swiper.jquery.umd.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/maps/swiper.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/swiper.jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/swiper.jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/swiper.jquery.umd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/swiper.jquery.umd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/swiper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/swiper/js/swiper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/text-rotate/jquery.simple-text-rotator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/text-rotate/jquery.simple-text-rotator.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/text-rotate/simpletextrotator.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/velocity/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/velocity/velocity.ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/vide/jquery.vide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/vide/jquery.vide.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/waypoints/jquery.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/css/pages-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/css/pages-icons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/css/pages.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/css/pages.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/montserrat/montserrat-bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/montserrat/montserrat-regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Bold/OpenSans-Bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/BoldItalic/OpenSans-BoldItalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBold/OpenSans-ExtraBold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/ExtraBoldItalic/OpenSans-ExtraBoldItalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Italic/OpenSans-Italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Light/OpenSans-Light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/LightItalic/OpenSans-LightItalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Regular/OpenSans-Regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/Semibold/OpenSans-Semibold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/opensans/SemiboldItalic/OpenSans-SemiboldItalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/fonts/pages-icon/Pages-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-bar-complete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-bar-danger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-bar-info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-bar-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-bar-primary.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-bar-success.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-bar-warning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-complete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-danger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-lg-master-static.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-lg-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-lg-white-static.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-lg-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-master.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-primary.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-success.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/progress/progress-circle-warning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/images/white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/js/pages.frontend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/js/pages.frontend.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/js/pages.image.loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/js/pages.social.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/js/pages.social.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/blog.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/demo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/device.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/font.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/form_elements.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/gallery.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/hover.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/layout.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/misc.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/notifications.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/pricing.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/progress_indicators.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/social.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/swiper.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/tabs_accordian.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/typography.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/modules/z_index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/pages.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/responsive.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/abstract/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/abstract/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/calendar/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/calendar/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/corporate/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/corporate/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/default/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/default/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/retro/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/retro/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/simple/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/simple/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/unlax/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/unlax/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/vibes/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pages/less/themes/vibes/var.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pricing.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Inventory_Management" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$routeProvider</find>
+      <find>link</find>
+      <find>&lt;link</find>
+      <find>&lt;script</find>
+      <find>images/</find>
+      <find>jQuery</find>
+      <find>&lt;img</find>
+      <find>a.indexOf</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/server/controllers/userController.js" />
+        <option value="$PROJECT_DIR$/client/partials/add_company.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/server/config/routes.js" />
+        <option value="$PROJECT_DIR$/server/config/mongoose.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/client/assets/angular/app.js" />
+        <option value="$PROJECT_DIR$/client/assets/css/cover.css" />
+        <option value="$PROJECT_DIR$/client/assets/js/ie10-viewport-bug-workaround.js" />
+        <option value="$PROJECT_DIR$/client/assets/css/ie10-viewport-bug-workaround.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/loader.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/skins/standard.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/nanoscroller.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/component.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/hover.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/animations.css" />
+        <option value="$PROJECT_DIR$/client/assets/css/viewport.css" />
+        <option value="$PROJECT_DIR$/client/assets/js/map.js" />
+        <option value="$PROJECT_DIR$/client/assets/js/plugin.js" />
+        <option value="$PROJECT_DIR$/client/assets/js/viewport.js" />
+        <option value="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js" />
+        <option value="$PROJECT_DIR$/client/assets/js/jquery.easing.js" />
+        <option value="$PROJECT_DIR$/client/assets/js/jquery.easing.compatibility.js" />
+        <option value="$PROJECT_DIR$/client/assets/js/jquery.easing.min.js" />
+        <option value="$PROJECT_DIR$/client/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+        <option value="$PROJECT_DIR$/client/assets/js/custom.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-357" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="npatel_portfolio">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="npatel_portfolio">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pages">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="npatel_portfolio">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pages">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="images">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="npatel_portfolio">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pages">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="images">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="progress">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/client/assets/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/client/assets/angular" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/npatel_portfolio/index.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="MongoRunConfiguration" factoryName="Mongo">
+      <setting name="path" value="" />
+      <setting name="shellParams" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="069df073-2e1e-440f-a532-2f8e7703bb3b" name="Default" comment="" />
+      <created>1490339123015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1490339123015</updated>
+      <workItem from="1490339124261" duration="306000" />
+      <workItem from="1490339447817" duration="2121000" />
+      <workItem from="1490387583029" duration="104000" />
+      <workItem from="1490400750637" duration="193000" />
+      <workItem from="1490415026323" duration="912000" />
+      <workItem from="1490417710478" duration="4980000" />
+      <workItem from="1491255190082" duration="1729000" />
+      <workItem from="1491258158667" duration="859000" />
+      <workItem from="1491276966986" duration="1084000" />
+      <workItem from="1491278316129" duration="1400000" />
+      <workItem from="1491280166419" duration="437000" />
+      <workItem from="1491280688936" duration="2366000" />
+      <workItem from="1491327114302" duration="11443000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27934000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-357" y="-1080" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18903089" sideWeight="0.49183673" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05479452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54059404" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.54059404" sideWeight="0.4978701" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.319063" sideWeight="0.5081633" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3328767" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5863014" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/controllers/userController.js" />
+    <entry file="file://$PROJECT_DIR$/debugLog.js" />
+    <entry file="file://$PROJECT_DIR$/client/assets/angular/debugLog.js" />
+    <entry file="file://$PROJECT_DIR$/server.js" />
+    <entry file="file://$PROJECT_DIR$/debugLog.js" />
+    <entry file="file://$PROJECT_DIR$/client/assets/angular/debugLog.js" />
+    <entry file="file://$PROJECT_DIR$/server/controllers/companies.js" />
+    <entry file="file://$PROJECT_DIR$/client/assets/angular/controllers/addOrderController.js" />
+    <entry file="file://$PROJECT_DIR$/server/controllers/userController.js" />
+    <entry file="file://$PROJECT_DIR$/server/controllers/products.js" />
+    <entry file="file://$PROJECT_DIR$/server/controllers/orders.js" />
+    <entry file="file://$PROJECT_DIR$/client/assets/angular/controllers/productController.js" />
+    <entry file="file://$PROJECT_DIR$/client/partials/show_user.html" />
+    <entry file="file://$PROJECT_DIR$/client/partials/login.html" />
+    <entry file="file://$PROJECT_DIR$/client/partials/add_company.html" />
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/mongoose.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/cover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="1" lean-forward="false" selection-start-line="159" selection-start-column="1" selection-end-line="159" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/angular/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/ie10-viewport-bug-workaround.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/ie10-viewport-bug-workaround.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/loader.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="499" column="39" lean-forward="false" selection-start-line="499" selection-start-column="39" selection-end-line="499" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/skins/standard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/nanoscroller.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/hover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12004">
+          <caret line="4784" column="0" lean-forward="false" selection-start-line="4784" selection-start-column="0" selection-end-line="4784" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/animations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="2335" column="0" lean-forward="false" selection-start-line="2335" selection-start-column="0" selection-end-line="2335" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/viewport.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="871">
+          <caret line="14473" column="0" lean-forward="false" selection-start-line="14473" selection-start-column="0" selection-end-line="14473" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/viewport.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="254" column="7" lean-forward="false" selection-start-line="254" selection-start-column="7" selection-end-line="254" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5231">
+          <caret line="3" column="18893" lean-forward="false" selection-start-line="3" selection-start-column="18893" selection-end-line="3" selection-end-column="18893" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/jquery.easing.compatibility.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="22" lean-forward="false" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/jquery.easing.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2280" lean-forward="false" selection-start-line="0" selection-start-column="2280" selection-end-line="0" selection-end-column="2280" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/jquery.easing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" lean-forward="false" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25245">
+          <caret line="1683" column="16" lean-forward="false" selection-start-line="1683" selection-start-column="16" selection-end-line="1683" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="706" column="88" lean-forward="false" selection-start-line="706" selection-start-column="88" selection-end-line="706" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="433" column="0" lean-forward="true" selection-start-line="433" selection-start-column="0" selection-end-line="433" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_lib/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="67" lean-forward="true" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/images/white.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/images/black.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/images/Arrow_menu_black.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/images/Arrow_menu_white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="451" column="48" lean-forward="false" selection-start-line="451" selection-start-column="48" selection-end-line="451" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
